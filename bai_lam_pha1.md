@@ -1,8 +1,8 @@
 # BÀI LÀM PHA 1 
 
-- **Họ tên:**
-- **Lớp:**
-- **Link repository Pha1:**
+- **Họ tên:** Trịnh Phú Thịnh
+- **Lớp:** HCM-KS26-CNTT1
+- **Link repository Pha1:** 
 
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
